@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "deviceName": "Medium Phone API 36.1",
+  "browserName": "Chrome",
+  "newCommandTimeout": 300,
+  "autoGrantPermissions": true
+}

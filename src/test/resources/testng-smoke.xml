@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Mobile SwagLabs Smoke" parallel="false">
+    <test name="Android Native Smoke">
+        <classes>
+            <class name="com.ivana.mobile.tests.smoke.LoginSmokeTest"/>
+            <class name="com.ivana.mobile.tests.negative.LockedOutUserLoginTest"/>
+            <class name="com.ivana.mobile.tests.smoke.PurchaseSmokeTest"/>
+        </classes>
+    </test>
+</suite>
