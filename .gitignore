@@ -5,6 +5,7 @@
 
 
 .idea/
+/.vscode/
 *.iml
 *.iws
 *.ipr
@@ -15,8 +16,12 @@
 .settings/
 /bin/
 
-            
 
+# Allure
+/allure-results/
+/allure-report/
+
+            
 .DS_Store
 Thumbs.db
 ehthumbs.db
